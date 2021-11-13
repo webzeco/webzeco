@@ -1,0 +1,30 @@
+{
+  "name": "porto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZAKIANS/porto.git"
+  },
+  "author": "abdulrehman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "expressjs": "^1.0.1",
+    "node-mailjet": "^3.3.1",
+    "twilio": "^3.58.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "bugs": {
+    "url": "https://github.com/ZAKIANS/porto/issues"
+  },
+  "homepage": "https://github.com/ZAKIANS/porto#readme"
+}
